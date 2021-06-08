@@ -1,0 +1,9 @@
+Process Watch version 2021.1.0
+
+Process Watch is a system monitor program used to provide information about the processes and applications running on your computer.
+
+Every time you click on "Refresh", you will automatically refresh all the running processes.
+
+The Delete key can be used to terminate processes on the Processes tab.
+
+The "Filter by user" search field allows you to show a list of all running processes on the system by the given user.
